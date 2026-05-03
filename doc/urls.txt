@@ -1,0 +1,4 @@
+https://api.dofusdb.fr/spell-variants?$skip=0&breedId=8&lang=fr
+https://api.dofusdb.fr/spells/13115?lang=fr
+https://api.dofusdb.fr/spell-levels?spellId=13115&lang=fr
+https://api.dofusdb.fr/stuffs/69f6a4074304cd0013621863?lang=fr
